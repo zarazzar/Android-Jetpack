@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Cactoos</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_user">Profile</string>
+    <string name="back">Back</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="add_your_favorite">Add Some Favorites</string>
+    <string name="unadd_favorite">Remove from Favorite</string>
+    <string name="top_bar">Your Favorite Plants!</string>
+    <string name="something_wrong">Something Wrong :(</string>
+    <string name="your_profile">User Profile</string>
+    <string name="search_hint">find something…</string>
+    <string name="username">Azzar Rizky</string>
+    <string name="userinfo">Mobile Development Cohort at Bangkit Academy H-2 led by Google, GoTo &amp; Traveloka \nazzar.arza18@gmail.com </string>
+</resources>
